@@ -1,0 +1,6 @@
+fingerprint_enhancer
+fingerprint-feature-extractor
+scikit-image
+pymongo
+tqdm
+ipykernel
